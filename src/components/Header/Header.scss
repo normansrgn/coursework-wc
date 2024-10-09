@@ -4,5 +4,9 @@
 
     &__logo {
         font-size: 25px;
+
+        & span {
+            color: #E32966;
+        }
     }
 }

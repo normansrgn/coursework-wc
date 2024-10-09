@@ -39,7 +39,10 @@ body {
   flex-direction: column;
   min-height: 100vh;
   overflow-x: hidden;
-  background-color: #000000 !important;
+  background-color: #131313 !important;
+  background-image: url("./assets/bgk.png");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 main {
